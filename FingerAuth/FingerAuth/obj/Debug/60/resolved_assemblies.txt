@@ -1,0 +1,13 @@
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\FingerAuth.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Java.Interop.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Android.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\mscorlib.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Core.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Xml.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Xamarin.Android.Support.v4.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Net.Http.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Runtime.Serialization.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.ServiceModel.Internals.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Security.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework Tracking", "Student Tracking\Homework Tracking.csproj", "{6481289A-DB6A-4BD8-9B74-7EB4D9C84916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6481289A-DB6A-4BD8-9B74-7EB4D9C84916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6481289A-DB6A-4BD8-9B74-7EB4D9C84916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6481289A-DB6A-4BD8-9B74-7EB4D9C84916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6481289A-DB6A-4BD8-9B74-7EB4D9C84916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4E7F3B-C1D3-40BC-AC5F-13720B7F3ACE}
+	EndGlobalSection
+EndGlobal

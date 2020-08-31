@@ -1,0 +1,11 @@
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\bin\Debug\Student Tracking.exe.config
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\bin\Debug\Student Tracking.exe
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\bin\Debug\Student Tracking.pdb
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student Tracking.csprojAssemblyReference.cache
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student_Tracking.Form1.resources
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student_Tracking.Properties.Resources.resources
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student Tracking.csproj.GenerateResource.cache
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student Tracking.csproj.CoreCompileInputs.cache
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student Tracking.exe
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student Tracking.pdb
+C:\Users\CRYPTON\Desktop\Student Tracking\Student Tracking\obj\Debug\Student_Tracking.Form2.resources

@@ -1,0 +1,110 @@
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\FingerAuth.dll
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\FingerAuth.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\FingerAuth.FingerAuth.apk
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\FingerAuth.FingerAuth-Signed.apk
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.nuget.stamp
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\libraryimports.cache.stamp
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res.flag
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csproj.CoreCompileInputs.cache
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csproj.CopyComplete
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.dll
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\bin\FingerAuth.FingerAuth.apk
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res\layout\home.xml
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res\layout\main.xml
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res\values\strings.xml
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res\values\styles.xml
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\res\drawable\fingerprint.png
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\R.cs.flag
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\R.txt
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\uploadflags.txt
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\Mono.Android.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\mscorlib.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.Core.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.Xml.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.Net.Http.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\Mono.Security.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\Mono.Android.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\mscorlib.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Core.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Xml.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Net.Http.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Runtime.Serialization.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\Mono.Security.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\linksrc\FingerAuth.dll.mdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\bin\Debug\FingerAuth.dll.mdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\FingerAuth.dll.mdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Android.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Security.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\mscorlib.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Core.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Net.Http.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Runtime.Serialization.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Xml.pdb
+C:\Users\CRYPTON\Desktop\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csprojAssemblyReference.cache
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.FingerAuth.apk
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.FingerAuth-Signed.apk
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.nuget.stamp
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csprojAssemblyReference.cache
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\libraryimports.cache.stamp
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res.flag
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csproj.CoreCompileInputs.cache
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.csproj.CopyComplete
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\FingerAuth.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\bin\FingerAuth.FingerAuth.apk
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res\layout\home.xml
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res\layout\main.xml
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res\values\strings.xml
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res\values\styles.xml
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\res\drawable\fingerprint.png
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\R.cs.flag
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\R.txt
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\uploadflags.txt
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\Mono.Android.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\Mono.Security.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\mscorlib.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.Core.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.Net.Http.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.Runtime.Serialization.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.ServiceModel.Internals.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\System.Xml.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.dll.mdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\FingerAuth.dll.mdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Android.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\Mono.Security.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\mscorlib.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Core.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Net.Http.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Runtime.Serialization.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.ServiceModel.Internals.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\android\assets\System.Xml.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\FingerAuth.dll.mdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\Mono.Android.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\Mono.Security.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\mscorlib.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Core.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Net.Http.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Runtime.Serialization.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.ServiceModel.Internals.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\System.Xml.pdb
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\bin\Debug\FingerAuth.dll
+D:\WORK\parmak izi girisli ödev takip sistemi\FingerAuth\FingerAuth\obj\Debug\60\linksrc\FingerAuth.dll.mdb

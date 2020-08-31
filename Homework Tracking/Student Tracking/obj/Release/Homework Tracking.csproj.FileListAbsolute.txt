@@ -1,0 +1,27 @@
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Student Tracking.exe.config
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Student Tracking.exe
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Student Tracking.pdb
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\FingerAuth.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Newtonsoft.Json.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\FingerAuth.pdb
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Newtonsoft.Json.pdb
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\bin\Release\Newtonsoft.Json.xml
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form1.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form2.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form3.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form4.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form5.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Form6.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student_Tracking.Properties.Resources.resources
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Homework Tracking.csproj.GenerateResource.cache
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Homework Tracking.csproj.CoreCompileInputs.cache
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Homework Tracking.csproj.CopyComplete
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student Tracking.exe
+C:\Users\CRYPTON\Desktop\Homework Tracking\Student Tracking\obj\Release\Student Tracking.pdb
